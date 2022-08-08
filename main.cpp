@@ -16,7 +16,7 @@ using namespace std;
 int main(){
 
 
-    printf("The first line of code today")
+    printf("The first line of code today");
     cout << "The first line of code with iostream library" << endl;
 
     return 0;
